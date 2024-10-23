@@ -1,3 +1,4 @@
+#gererating a qr code to this website
 import qrcode
 
 data = "https://buzzer.lulusms.com/slideshow.php"
